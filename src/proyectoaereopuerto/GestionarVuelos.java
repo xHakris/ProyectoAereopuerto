@@ -229,6 +229,7 @@ public class GestionarVuelos extends javax.swing.JFrame {
         MenuAdm ma = new MenuAdm();
         ma.setVisible(true);
         this.dispose();
+        //aaa
     }//GEN-LAST:event_jbtn_VolverActionPerformed
 
     private void jcmb_ModelosItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_jcmb_ModelosItemStateChanged

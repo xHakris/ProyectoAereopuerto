@@ -100,6 +100,7 @@ public class MenuAdm extends javax.swing.JFrame {
         GestionarVuelos gv = new GestionarVuelos();
         gv.setVisible(true);
         this.setVisible(false);
+        //asdasd
     }//GEN-LAST:event_jbtn_GestionarVuelosActionPerformed
 
     private void jbtn_SalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtn_SalirActionPerformed
